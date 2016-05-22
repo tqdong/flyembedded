@@ -1,0 +1,16 @@
+..\obj\led.o: ..\Driver\Led.c
+..\obj\led.o: ..\Driver\led.h
+..\obj\led.o: ..\CORE\stm32f0xx.h
+..\obj\led.o: ..\CORE\core_cm0.h
+..\obj\led.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\led.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\core_cmInstr.h
+..\obj\led.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\core_cmFunc.h
+..\obj\led.o: ..\CORE\system_stm32f0xx.h
+..\obj\led.o: ..\Driver\stm32f0xx_conf.h
+..\obj\led.o: ..\STM32F03x_FWLib\inc\stm32f0xx_adc.h
+..\obj\led.o: ..\CORE\stm32f0xx.h
+..\obj\led.o: ..\STM32F03x_FWLib\inc\stm32f0xx_exti.h
+..\obj\led.o: ..\STM32F03x_FWLib\inc\stm32f0xx_gpio.h
+..\obj\led.o: ..\STM32F03x_FWLib\inc\stm32f0xx_rcc.h
+..\obj\led.o: ..\STM32F03x_FWLib\inc\stm32f0xx_spi.h
+..\obj\led.o: ..\Driver\delay.h

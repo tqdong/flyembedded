@@ -1,0 +1,16 @@
+..\obj\drv_adc.o: ..\Driver\drv_adc.c
+..\obj\drv_adc.o: ..\Driver\drv_adc.h
+..\obj\drv_adc.o: ..\CORE\stm32f0xx.h
+..\obj\drv_adc.o: ..\CORE\core_cm0.h
+..\obj\drv_adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\drv_adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\core_cmInstr.h
+..\obj\drv_adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\core_cmFunc.h
+..\obj\drv_adc.o: ..\CORE\system_stm32f0xx.h
+..\obj\drv_adc.o: ..\Driver\stm32f0xx_conf.h
+..\obj\drv_adc.o: ..\STM32F03x_FWLib\inc\stm32f0xx_adc.h
+..\obj\drv_adc.o: ..\CORE\stm32f0xx.h
+..\obj\drv_adc.o: ..\STM32F03x_FWLib\inc\stm32f0xx_exti.h
+..\obj\drv_adc.o: ..\STM32F03x_FWLib\inc\stm32f0xx_gpio.h
+..\obj\drv_adc.o: ..\STM32F03x_FWLib\inc\stm32f0xx_rcc.h
+..\obj\drv_adc.o: ..\STM32F03x_FWLib\inc\stm32f0xx_spi.h
+..\obj\drv_adc.o: ..\Driver\delay.h

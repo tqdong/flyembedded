@@ -1,0 +1,19 @@
+--cpu Cortex-M0
+"..\obj\main.o"
+"..\obj\delay.o"
+"..\obj\drv_adc.o"
+"..\obj\led.o"
+"..\obj\nrf24l01.o"
+"..\obj\spi.o"
+"..\obj\stm32f0xx_it.o"
+"..\obj\system_stm32f0xx.o"
+"..\obj\startup_stm32f0xx.o"
+"..\obj\stm32f0xx_adc.o"
+"..\obj\stm32f0xx_exti.o"
+"..\obj\stm32f0xx_rcc.o"
+"..\obj\stm32f0xx_spi.o"
+"..\obj\stm32f0xx_gpio.o"
+--strict --scatter "..\OBJ\Four_Axis.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Four_Axis.map" -o ..\OBJ\Four_Axis.axf

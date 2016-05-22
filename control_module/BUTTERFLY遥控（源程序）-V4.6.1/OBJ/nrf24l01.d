@@ -1,0 +1,17 @@
+..\obj\nrf24l01.o: ..\Driver\NRF24L01.C
+..\obj\nrf24l01.o: ..\Driver\nrf24l01.h
+..\obj\nrf24l01.o: ..\CORE\stm32f0xx.h
+..\obj\nrf24l01.o: ..\CORE\core_cm0.h
+..\obj\nrf24l01.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\nrf24l01.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\core_cmInstr.h
+..\obj\nrf24l01.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\core_cmFunc.h
+..\obj\nrf24l01.o: ..\CORE\system_stm32f0xx.h
+..\obj\nrf24l01.o: ..\Driver\stm32f0xx_conf.h
+..\obj\nrf24l01.o: ..\STM32F03x_FWLib\inc\stm32f0xx_adc.h
+..\obj\nrf24l01.o: ..\CORE\stm32f0xx.h
+..\obj\nrf24l01.o: ..\STM32F03x_FWLib\inc\stm32f0xx_exti.h
+..\obj\nrf24l01.o: ..\STM32F03x_FWLib\inc\stm32f0xx_gpio.h
+..\obj\nrf24l01.o: ..\STM32F03x_FWLib\inc\stm32f0xx_rcc.h
+..\obj\nrf24l01.o: ..\STM32F03x_FWLib\inc\stm32f0xx_spi.h
+..\obj\nrf24l01.o: ..\Driver\spi.h
+..\obj\nrf24l01.o: ..\Driver\delay.h

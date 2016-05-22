@@ -1,0 +1,15 @@
+..\obj\stm32f0xx_rcc.o: ..\STM32F03x_FWLib\src\stm32f0xx_rcc.c
+..\obj\stm32f0xx_rcc.o: ..\STM32F03x_FWLib\inc\stm32f0xx_rcc.h
+..\obj\stm32f0xx_rcc.o: ..\CORE\stm32f0xx.h
+..\obj\stm32f0xx_rcc.o: ..\CORE\core_cm0.h
+..\obj\stm32f0xx_rcc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\stm32f0xx_rcc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\core_cmInstr.h
+..\obj\stm32f0xx_rcc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\core_cmFunc.h
+..\obj\stm32f0xx_rcc.o: ..\CORE\system_stm32f0xx.h
+..\obj\stm32f0xx_rcc.o: ..\Driver\stm32f0xx_conf.h
+..\obj\stm32f0xx_rcc.o: ..\STM32F03x_FWLib\inc\stm32f0xx_adc.h
+..\obj\stm32f0xx_rcc.o: ..\CORE\stm32f0xx.h
+..\obj\stm32f0xx_rcc.o: ..\STM32F03x_FWLib\inc\stm32f0xx_exti.h
+..\obj\stm32f0xx_rcc.o: ..\STM32F03x_FWLib\inc\stm32f0xx_gpio.h
+..\obj\stm32f0xx_rcc.o: ..\STM32F03x_FWLib\inc\stm32f0xx_rcc.h
+..\obj\stm32f0xx_rcc.o: ..\STM32F03x_FWLib\inc\stm32f0xx_spi.h
